@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0801-is-graph-bipartite](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1916-find-center-of-star-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/1916-find-center-of-star-graph) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1223-graph-connectivity-with-threshold](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1223-graph-connectivity-with-threshold](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
+## Greedy
+|  |
+| ------- |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
+## Sorting
+|  |
+| ------- |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 <!---LeetCode Topics End-->

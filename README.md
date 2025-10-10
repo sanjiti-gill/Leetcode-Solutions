@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0801-is-graph-bipartite](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Graph
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1916-find-center-of-star-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/1916-find-center-of-star-graph) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Union Find
 |  |
 | ------- |

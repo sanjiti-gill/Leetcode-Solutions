@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0133-clone-graph) |
 | [3809-properties-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3809-properties-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -30,18 +31,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2590-maximum-star-sum-of-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3809-properties-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3809-properties-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Union Find
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1223-graph-connectivity-with-threshold](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
 | [3809-properties-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3809-properties-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Array
 |  |
 | ------- |
 | [1223-graph-connectivity-with-threshold](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3809-properties-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3809-properties-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
@@ -62,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
+## Binary Search
+|  |
+| ------- |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->

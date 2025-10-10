@@ -26,4 +26,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [1223-graph-connectivity-with-threshold](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
+## Array
+|  |
+| ------- |
+| [1223-graph-connectivity-with-threshold](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
+## Math
+|  |
+| ------- |
+| [1223-graph-connectivity-with-threshold](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
+## Number Theory
+|  |
+| ------- |
+| [1223-graph-connectivity-with-threshold](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
 <!---LeetCode Topics End-->

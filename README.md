@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0801-is-graph-bipartite](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [2439-longest-cycle-in-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [3809-properties-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3809-properties-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0801-is-graph-bipartite](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [2439-longest-cycle-in-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3809-properties-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3809-properties-graph) |
 ## Graph
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0801-is-graph-bipartite](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1916-find-center-of-star-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/1916-find-center-of-star-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3809-properties-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3809-properties-graph) |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Topological Sort
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->

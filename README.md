@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0133-clone-graph) |
 | [3809-properties-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3809-properties-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [1223-graph-connectivity-with-threshold](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3809-properties-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3809-properties-graph) |

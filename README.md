@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0217-contains-duplicate](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [3809-properties-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3809-properties-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [1223-graph-connectivity-with-threshold](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/sanjiti-gill/leetcode-solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Heap (Priority Queue)
 |  |

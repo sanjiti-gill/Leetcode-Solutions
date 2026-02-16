@@ -138,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->

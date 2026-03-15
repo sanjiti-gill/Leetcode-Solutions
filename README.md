@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0595-big-countries) |
+| [0610-triangle-judgement](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/sanjiti-gill/Leetcode-Solutions/tree/master/1075-project-employees-i) |
